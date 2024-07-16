@@ -4,7 +4,7 @@ public:
         
         string ans = "";
         int n = s.size();
-        k = k%n;
+        // k = k%n;
         for(int i=0 ; i<n ; i++){
             
             int d = i+k;
